@@ -1,0 +1,17 @@
+#footer {
+  background: #333333;
+  color: white;
+  padding: 30px 0;
+  color: #CCCCCC;
+  display: flex;
+  justify-content: space-between;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+#footer a{
+  color: #CCCCCC;
+  font-size: 20px;
+  letter-spacing: 20px;
+  transition: color 0.5s ease;
+  }
